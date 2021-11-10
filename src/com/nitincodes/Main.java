@@ -25,7 +25,8 @@ public class Main {
        5
        5
        */
-Scanner sc = new Scanner(System.in);
+
+        Scanner sc = new Scanner(System.in);
 int t,n,rem = 0,ld,sum = 0;
 t = sc.nextInt();
 for(int i=0;i<t;i++){
@@ -40,7 +41,6 @@ for(int i=0;i<t;i++){
 }
     }
 }
-
-/* in this first we had found the last digit and the in a while loop had found the first digit then in last
-i have added both of them.
- */
+/*in this first we had found the last digit and then in a while loop, we had found the first digit then in last
+,i have added both of them.
+ */ 
