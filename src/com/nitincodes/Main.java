@@ -42,5 +42,6 @@ for(int i=0;i<t;i++){
     }
 }
 /*in this first we had found the last digit and then in a while loop, we had found the first digit then in last
-,i have added both of them.
+,i have added both of them. because of that we have already taken last digit before loop and the first digit
+in a loop
  */ 
